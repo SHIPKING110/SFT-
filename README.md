@@ -18,3 +18,5 @@ pip install torch==2.5.1 transformers==4.57.1 datasets peft accelerate bitsandby
 
 # 安装评估和工具依赖
 pip install evaluate rouge-score nltk pandas numpy
+
+
